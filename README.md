@@ -22,9 +22,7 @@ A modern implementation of the classic Tetris game using HTML5, CSS3, and JavaSc
 
 - `git clone https://github.com/Jexar/Tetris.git`
 
-2. Navigate to the project directory:
-
-- `cd Tetris`
+2. Navigate to the project directory.
 
 3. Open `index.html` in your preferred web browser.
 
